@@ -58,6 +58,7 @@ macro_rules! test_preserve {
 
 test!(minimal);
 test!(groups);
+test!(groups_translate);
 test!(clippath_with_invalid_child);
 test!(clippath_with_invalid_children);
 test!(group_clippath);
